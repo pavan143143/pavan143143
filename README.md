@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan143143&label=Profile%20views&color=0e75b6&style=flat" alt="pavan143143" /> </p>
 
-- 🌱 I’m currently learning **DJango , LLM's**
+- 🌱 I’m currently learning **Snowflake**
 
 - 👯 I’m looking to collaborate on **Generative AI**
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **pavanpuli333@yahoo.com**
 
-- ⚡ Fun fact **I think i'm useless**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
