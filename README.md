@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DSA**
 
-- 💬 Ask me about **Java,Python**
+- 💬 Ask me about **Databricks,SQL,Snowflake,AWS,Python**
 
 - 📫 How to reach me **pavanpuli333@yahoo.com**
 
